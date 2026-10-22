@@ -1,0 +1,16 @@
+PyQt6
+python-dotenv
+groq
+openai
+pdfplumber
+pymupdf
+pypdf
+Pillow
+gspread
+google-auth
+google-auth-oauthlib
+google-api-python-client
+requests
+# optional OCR fallback for scanned PDFs (needs Tesseract and Poppler installed):
+# pytesseract
+# pdf2image

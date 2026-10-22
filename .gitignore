@@ -1,0 +1,17 @@
+# secrets
+.env
+credentials.json
+oauth_credentials.json
+token.json
+
+# runtime data (real e-mails, PDFs, caches, logs)
+bot_data/
+saldeo_log.txt
+classifier_examples.json
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+.aider*
